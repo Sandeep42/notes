@@ -1,13 +1,24 @@
 # GHG emissions in the Industry
 
+Paper: 
+
+Tackling Climate Change with Machine Learning
+
+[https://arxiv.org/abs/1906.05433](https://arxiv.org/abs/1906.05433)
+
 ## **Key Concepts:**
 
 1. Better forecasting in terms of demand and supply from data.
 2. Better Material alternatives that have low carbon footprint (using generative models from ML)
 
-### Optimizing Supply Chains:
+## Main Bottlenecks
 
-* Predict demand, supply and optimize shipping routes in transportation.
+1. Lack of incentives to the companies to invest their time and money in carbon-neutral technologies.
+2. Lack of data as more companies tend to safeguard their methods. This created a class-imbalance where all the data recides with one firm and others can't have access to this information.
+
+### Optimising Supply Chains:
+
+* Predict demand, supply and optimise shipping routes in transportation.
 
 #### Reducing overproduction:
 
@@ -30,7 +41,7 @@
 #### Climate Friendly Construction:
 
 * Cement and steel production together account for over **10% of all global GHG emissions**.
-* Can we engineer structures that can use low carbon footprint alternatives for construction? ML can be used in generative design. You can have for example an RL model trained to optimize for strength. For a long, we struck to the same old architecture, maybe ML can bring a bit of entropy into the system and find more optimal solutions. Where's the data? Materials Project
+* Can we engineer structures that can use low carbon footprint alternatives for construction? ML can be used in generative design. You can have for example an RL model trained to optimise for strength. For a long, we struck to the same old architecture, maybe ML can bring a bit of entropy into the system and find more optimal solutions. Where's the data? Materials Project
 * Low emission concrete with same structural properties.
 
 #### Climate Friendly Chemicals:
@@ -44,9 +55,21 @@
 
 * The missing piece is mostly data. We don't know how much energy we are wasting.
 * By installing better sensors in industries that do manufacturing, we can track energy consumption & come up with solutions if they are required.
-* Old equipment should be replaced for better low carbon technologies. Unless, the companies are incentivized it might be difficult to drive this.
+* Old equipment should be replaced for better low carbon technologies. Unless, the companies are incentivised it might be difficult to drive this.
 * If an outsider can come and do evaluation, may be say that you can save 10-20% electricity, would companies be willing to co-operate?
 
 #### Adaptive Control:
 
-* 
+* Optimise systems by making control algorithms for cooling and maintenance.
+* Google used optimisation based objective to reduce cooling costs in their data centres. 
+
+#### Predictive Maintenance:
+
+* Predicting wear and tear of machinery
+* Fault prediction and fixing
+* Digital Twin Models for optimisation
+
+#### Using Cleaner Electricity:
+
+* If electricity can be priced dynamically based on the resource used to produce it, firms can take advantage of the lower prices. They can do their energy intensive work during the morning when the sun is high and electricity is cheaper.
+* Automating this framework to adaptively control and ensure optimal price is obtained can decrease the GHG emissions.
