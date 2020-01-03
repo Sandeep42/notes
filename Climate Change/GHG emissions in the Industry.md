@@ -41,7 +41,7 @@ Tackling Climate Change with Machine Learning
 #### Climate Friendly Construction:
 
 * Cement and steel production together account for over **10% of all global GHG emissions**.
-* Can we engineer structures that can use low carbon footprint alternatives for construction? ML can be used in generative design. You can have for example an RL model trained to optimise for strength. For a long, we struck to the same old architecture, maybe ML can bring a bit of entropy into the system and find more optimal solutions. Where's the data? Materials Project
+* Can we engineer structures that can use low carbon footprint alternatives for construction? ML can be used in generative design. You can have for example an RL model trained to optimise for strength. For a long time, we struck to the same old architecture, maybe ML can bring a bit of entropy into the system and find more optimal solutions. Where's the data? Materials Project
 * Low emission concrete with same structural properties.
 
 #### Climate Friendly Chemicals:
