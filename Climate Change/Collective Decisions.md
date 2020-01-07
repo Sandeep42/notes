@@ -20,4 +20,8 @@ Tackling Climate Change with Machine Learning
 ### Policy Information:
 
 * Things like Cost- Benefit analysis, model driven profit calculation can help the governments to evaluate better policies. ML models could potentially use existing data and also calculate lost benefit by not bringing a policy earlier than now.
-* For example, Germany initiated solar & wind generation earlier than anyone, they have now set a record by supplying 78% of electricity through renewable for one day. This type of long term thinking based on hard calculations should be given to the government so that they can decide to do this well before an 
+* For example, Germany initiated solar & wind generation earlier than anyone, they have now set a record by supplying 78% of electricity through renewable for one day. This type of long term thinking based on hard calculations should be given to the government so that they can decide to do this well before.
+
+### Assessing Policies
+
+* Integrated assesement models which use a combination of economic and climate impacts.
