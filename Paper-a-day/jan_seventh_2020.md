@@ -14,3 +14,4 @@
 	* Soft labels: The soft labels approach uses a label embedding method where they embed classes in such a way that near (in terms of LCA distance) are embedded closer. Much similar to Word2Vec, just a different distance metric and comparison function.
 * Paper uses two datasets, and shows the trade off between accuracy and severity of the mistakes.
 * Can you use arbitrary hierarchies? No, the performance drops when you do so. So, the network is able to learn only when the hierarchies are related in some context. Otherwise, it doesn't help much.
+* You need to have the hierarchy though. Typically, it should be easy enough to find since the number of classes is less. Otherwise, one use external clustering approaches.
